@@ -37,7 +37,7 @@ npx hardhat run --network sepolia scripts/deploy.ts
 11- The main function takes four parameters and you can move forward and change them if you would like to according to your needs. <br><br>
 
 
-12- Name of the token is `MyToken` and the abbreviation for it is `MKT`you can import it in your metamask and share with your other accounts to see the taxation. If you don't know how to import tokens click on this [link](https://support.metamask.io/managing-my-tokens/custom-tokens/how-to-display-tokens-in-metamask/). <br><br>
+12- Name of the token is `MyToken` and the abbreviation for it is `MTk`you can import it in your metamask and share with your other accounts to see the taxation. If you don't know how to import tokens click on this [link](https://support.metamask.io/managing-my-tokens/custom-tokens/how-to-display-tokens-in-metamask/). <br><br>
 
 
 
